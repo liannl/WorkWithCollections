@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="opencsv">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../Program Files/Java/jdk-20/lib/opencsv" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../Program Files/Java/jdk-20/lib/opencsv" recursive="false" />
+  </library>
+</component>
